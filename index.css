@@ -1,26 +1,27 @@
 body{
     font-family:'Arial';
     background-color: rgba(211, 211, 211, 0.952);
-    color: rgb(109, 193, 241);
+    color: rgb(44, 106, 143);
 }
 h1 {
-    font-family:'Arial Black';
-    color: #5eb0df;
-    font-size: 4em;
-    background: #164996;
-    line-height: 150px;
+    font-family 'cursive';
+    color: #27745d;
+    font-size: 1,5em;
+    background: #48967262;
+    line-height: 75px;
+    border-bottom: 2px #27745d dotted;
     margin: 0px 0px 0px 10px;
     padding-left: 20px;
 }
 h2 {
-    color: #5db1b4;
+    color: #27745d;
     font-size: 2em;
     margin-top: 50px;
-    border-bottom: 2px rgb(41, 109, 136) dotted;
+    border-bottom: 2px #27745d dotted;
     overflow: hidden;
 }
 p {
-    color: #21457a;
+    color: #27745d;
     line-height: 150%;
     padding-top: 10px;
     padding-left: 60px;
